@@ -1,0 +1,1 @@
+# plugins-disable-auto-update-email-notifications
