@@ -4,8 +4,8 @@ Donate link: https://joltmailer.com/download/
 License: GPLv2 or later
 Tags: disable, auto-update, theme, plugin, email, notification, auto, update, updates, stop, automatic
 Requires at least: 5.5
-Tested up to: 6.4
-Stable tag: 1.4.1
+Tested up to: 6.7.1
+Stable tag: 1.5.0
 Requires PHP: 5.6
 
 
@@ -27,7 +27,7 @@ All other notification will be ON. This plugin only stops plugin and theme auto-
 *	It is compatible with the latest version of WordPress. 
 
 
-We create simple and lightweight tools that work without much settings. Check our [simple email marketing system](https://joltmailer.com/download/) that you can use for email subscriptions, sending newsletters and RSS to email newsletter automation. 
+We create simple and lightweight email tools that work without much settings. Check our [simple email tools](https://gutoz.com) that you can use for email marketing. 
 
 
 == Installation ==
@@ -38,12 +38,18 @@ We create simple and lightweight tools that work without much settings. Check ou
 3. You are done! No more settings required
 
 == Frequently Asked Questions ==
-= Where are the settings? =
+= Where are the plugin settings? =
 
 There are no settings. This plugin does its magic without any settings. 
 
 
 == Changelog ==
+
+= 1.5.0 =
+
+*Release Date - 21 January 2025*
+
+* Updated compatibility with WordPress 6.7.1
 
 = 1.4.1 =
 
